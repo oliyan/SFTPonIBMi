@@ -214,4 +214,4 @@ If you're running V7R2 & above,
 ## References
 1. [usage of pythont to automate sftp](https://github.com/richardschoen/PythonSamples/blob/master/ibmi/pysftpdownload.py)
 2. [automate sftp using expect](https://www.seidengroup.com/2022/12/27/automate-sftp-transfers-using-expect/)
-3. 
+3. Refer the IBMi community for more info about updating the PTF to solve connectivity issues.
